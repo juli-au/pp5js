@@ -1,0 +1,14 @@
+{
+  "semi": false,
+  "singleQuote": false,
+  "htmlWhitespaceSensitivity": "ignore",
+  "printWidth": 100,
+  "overrides": [
+    {
+      "files": "*.svg",
+      "options": {
+        "parser": "html"
+      }
+    }
+  ]
+}
